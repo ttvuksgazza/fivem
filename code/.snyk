@@ -1,0 +1,10 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.19.0
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:lodash:20180130':
+    - grunt-prompt > lodash:
+        patched: '2021-05-24T04:06:13.569Z'
+    - grunt-prompt > inquirer > lodash:
+        patched: '2021-05-24T04:06:13.569Z'
