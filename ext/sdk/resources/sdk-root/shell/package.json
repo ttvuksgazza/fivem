@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@octokit/rest": "^18.3.0",
-    "@sentry/node": "^6.2.0",
+    "@sentry/node": "^6.3.5",
     "@sentry/react": "^6.2.0",
     "@sentry/tracing": "^6.2.0",
     "@types/follow-redirects": "^1.13.0",
