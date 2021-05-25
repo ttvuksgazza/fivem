@@ -57,7 +57,7 @@
     "idb": "^6.0.0",
     "int64-buffer": "^1.0.0",
     "js-md5": "0.7.3",
-    "mini-css-extract-plugin": "^1.2.0",
+    "mini-css-extract-plugin": "^1.6.0",
     "ngx-date-fns": "^8.0.0",
     "ngx-filesize": "^2.0.16",
     "ngx-linky": "^3.0.0",
