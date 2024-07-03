@@ -80,7 +80,7 @@
     "typeface-rubik": "^1.1.13",
     "unicode-substring": "^1.0.0",
     "webpack": "4",
-    "webpack-dev-server": "^3.11.2",
+    "webpack-dev-server": "^4.9.0",
     "webpack-extended-import-glob-loader": "^1.6.6",
     "xml-js": "^1.6.11",
     "zone.js": "~0.11.4"
