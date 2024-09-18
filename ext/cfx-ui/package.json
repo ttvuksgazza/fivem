@@ -48,7 +48,7 @@
     "core-js": "^3.9.1",
     "css-loader": "^5.2.0",
     "date-fns": "^2.19.0",
-    "dompurify": "^2.2.7",
+    "dompurify": "^2.5.4",
     "emoji-regex": "^9.2.2",
     "emoji.json": "^13.1.0",
     "flag-icon-css": "^3.5.0",
