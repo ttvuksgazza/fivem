@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@octokit/rest": "^18.3.0",
-    "@sentry/node": "^6.2.0",
+    "@sentry/node": "^7.75.0",
     "@sentry/react": "^6.2.0",
     "@sentry/tracing": "^6.2.0",
     "@types/follow-redirects": "^1.13.0",
@@ -14,7 +14,7 @@
     "classnames": "^2.2.6",
     "cors": "^2.8.5",
     "debug": "^4.3.1",
-    "express": "^4.17.1",
+    "express": "^4.21.1",
     "express-ws": "^4.0.0",
     "fast-glob": "^3.2.5",
     "filesize": "^6.1.0",
