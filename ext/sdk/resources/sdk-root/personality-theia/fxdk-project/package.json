@@ -5,9 +5,9 @@
   "description": "FxDK Project extension",
   "dependencies": {
     "@theia/core": "1.12.1",
-    "@theia/filesystem": "1.12.1",
+    "@theia/filesystem": "1.13.0",
     "@theia/variable-resolver": "1.12.1",
-    "ajv": "^6.5.3",
+    "ajv": "^8.18.0",
     "jsonc-parser": "^2.2.0",
     "moment": "2.24.0",
     "valid-filename": "^2.0.1",
